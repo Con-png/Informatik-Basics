@@ -1,8 +1,6 @@
-Hier ist die fertige `README.md` für dein GitHub-Repository. Sie ist professionell strukturiert, nutzt sauberes Markdown und trennt die Funktionsblöcke logisch voneinander ab.
 
------
 
-# 📍 GPS & POI Analytics Engine
+GPS & POI Analytics Engine
 
 Dieses Projekt stellt ein modulares Framework zur Verwaltung von Points of Interest (POIs) und zur automatisierten Analyse von GPX-Bewegungsdaten bereit. 
 Es ermöglicht den Abgleich von GPS-Koordinaten mit einer lokalen Datenbank, um Besuchsstatistiken basierend auf räumlicher Nähe zu führen.
