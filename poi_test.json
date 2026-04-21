@@ -1,26 +1,34 @@
 [
     {
-        "name" : "Herrentisch",
-        "pos" : {
-            "lat" : 47.6648127,
-            "lon" : 16.4217079
+        "name": "Herrentisch",
+        "pos": {
+            "lat": 47.6648127,
+            "lon": 16.4217079
         },
-        "osm" : "https://www.openstreetmap.org/node/1656932352"
+        "osm": "https://www.openstreetmap.org/node/1656932352"
     },
     {
-        "name" : "Drei Säulen",
-        "pos" : {
-            "lat" : 47.6393216, 
-            "lon" : 16.4980057
+        "name": "Drei Säulen",
+        "pos": {
+            "lat": 47.6393216,
+            "lon": 16.4980057
         },
-        "osm" : "https://www.openstreetmap.org/node/1732254930"
+        "osm": "https://www.openstreetmap.org/node/1732254930"
     },
     {
-        "name" : "Umbruch - Denkmal Paneuropäisches Picknick",
-        "pos" : {
-            "lat" : 47.7567819,  
-            "lon" : 16.6210290
+        "name": "Umbruch - Denkmal Paneuropäisches Picknick",
+        "pos": {
+            "lat": 47.7567819,
+            "lon": 16.621029
         },
-        "osm" : "https://www.openstreetmap.org/node/1097783032"
+        "osm": "https://www.openstreetmap.org/node/1097783032"
+    },
+    {
+        "name": "Herrentisch",
+        "pos": {
+            "lat": 21.0,
+            "lon": 21.0
+        },
+        "visits": 0
     }
 ]
